@@ -36,6 +36,7 @@ public class Final {
         System.out.println("Promedio (pc): " + pc);
 
         entrada.close();
+        System.out.println("Tapia Espinoza Jhordan");
     }
 
 }
